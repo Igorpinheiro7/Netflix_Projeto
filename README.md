@@ -13,7 +13,7 @@ Este projeto foi desenvolvido como parte do meu aprendizado no curso de Data Sci
 
 # 🎯 Objetivo
 
-Este projeto tem como objetivo identificar a média e a avaliação dos filmes e séries recebida na plataforma pelos usuários.
+O principal objetivo deste projeto é identificar a média e a avaliação de filmes e séries recebidas pelos usuários na plataforma Netflix, além de explorar outros aspectos relevantes dos dados.
 
 # Média das Notas
 
