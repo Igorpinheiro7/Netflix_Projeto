@@ -45,7 +45,7 @@ O Boxplot a seguir ilustra graficamente esses resultados, mostrando a distribui�
 
 ![Image](https://github.com/user-attachments/assets/3459b9f9-820b-48f5-af91-077cc29343a1)
 
-# Investigação de Filmes por idioma
+# 🌍 Investigação de Filmes por Idioma
 
 Achei uma pesquisa interessante de fazer e ver outros ninchos que a plataforma pode explorar, com o intuito de expandir o seu alcance e conquistar mais usuários, nesta pesquisa encontrei que a maioria dos filmes e séries na plataforma está no idioma inglês, claro até porque é o idioma universal, mas identifiquei que o número de filmes e séries em outros idiomas não chega nem a metade dos que são disponibilizados em inglês.
 
