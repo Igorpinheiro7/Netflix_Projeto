@@ -60,3 +60,7 @@ Percebemos que os idioma que que ficam atrás do inglês é o Françês, Espanho
 ![Image](https://github.com/user-attachments/assets/38877503-e4db-4076-9daf-f17bc7d8c182)
 
 ![Image](https://github.com/user-attachments/assets/320c8262-88a2-4b68-a586-d83f5d5f2af7)
+
+# Conclusão
+
+Identificamos as médias das notas dos filmes que foi colocado em pesquisa, o Toy Story e o Jumanji, percebemos que o público gostaram deste tipo de filme um infantil e o outro de comédia, mas também identifiquei uma melhoria e um nincho que deve ser explorado pela plataforma afim de conquistar novos usuários em diferentes idiomas, percebemos que a predominância do idioma inglês tem escondido novos públicos que deveriam está sendo explorado para o crescimento da plataforma e de usuários.   
