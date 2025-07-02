@@ -11,7 +11,7 @@
 
 Este projeto foi desenvolvido como parte do meu aprendizado no curso de Data Science da Alura, com o objetivo de aprimorar minhas hard skills em análise de dados.
 
-# Objetivo:
+# 🎯 Objetivo
 
 Este projeto tem como objetivo identificar a média e a avaliação dos filmes e séries recebida na plataforma pelos usuários.
 
