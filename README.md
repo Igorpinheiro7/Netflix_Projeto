@@ -31,17 +31,17 @@ Como Falei acima, a imagem abaixo mostra com mais clareza a média da avaliaçã
 
 # 🎬 Exploração Comparativa de Filmes
 
-Essa exploração foi feita pois eu tinha como objetivo pesquisar qual era a médias das notas recebidas por dois filmes, o primeiro o filme do Toy Story, e o segundo foi o filme do jumanji com a inteção de comparar ambos e ver qual deles está se saindo melhor perante os usuários da plataforma.
+Realizei uma análise comparativa entre as avaliações de dois filmes populares: Toy Story e Jumanji. O objetivo foi verificar qual deles se destaca na percepção dos usuários.
 
 
 ![Image](https://github.com/user-attachments/assets/da0428c8-dc25-4a9b-a839-5db624ea56a0)
 
 # Comparando duas distribuição de medidas
-Na imagem abaixo podemos ver a média de ambos os filmes e chegamos a conclusão que o filme do toy story tem ficado, e temos a percepção que opúblico gostou desse filme no catálogo da Netflix.
+A comparação das médias de ambos os filmes revela que Toy Story obteve uma recepção mais positiva por parte do público da Netflix, como pode ser visto abaixo:
 
 ![Image](https://github.com/user-attachments/assets/fbc88de3-6f31-4948-96f0-637155c45801)
 
-O Boxplot abaixo, vai exemplificar graficamente estes resultados citados na imagem acima.
+O Boxplot a seguir ilustra graficamente esses resultados, mostrando a distribuição das avaliações para cada filme:
 
 ![Image](https://github.com/user-attachments/assets/3459b9f9-820b-48f5-af91-077cc29343a1)
 
