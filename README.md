@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte do meu aprendizado no curso de Data Sci
 
 O principal objetivo deste projeto é identificar a média e a avaliação de filmes e séries recebidas pelos usuários na plataforma Netflix, além de explorar outros aspectos relevantes dos dados.
 
-# Média das Notas
+# 📈 Análise das Avaliações
 
 Nos histogramas abaixo podemos ver a média das notas que é dada na plataforma ficando entre 3,5 e 4,0 sendo que 3,5 é a moda, é o resultado que mais se repete na plataforma que é avaliada pelos usuários.  
 
