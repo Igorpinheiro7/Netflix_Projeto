@@ -48,7 +48,7 @@ Achei uma pesquisa interessante de fazer e ver outros ninchos que a plataforma p
 
 ![Image](https://github.com/user-attachments/assets/f49be5bd-01d5-4260-b0a6-ae936c67195c)
 
-Abaixo tem demonstrações gráficas a respeito desta curiosadade gritante a respeito do idioma, inclusive utilizarei um gráfico que a maioria dos especialistas de dados não gostam de utilizar pois a vizualização dos dados muitas vezes não fica tão clara com a utilização deste gráfico, o famoso gráfico de pizza, e pra fazer aquela média com a comundidade também utilizei o gráfico de barras.
+Abaixo tem demonstrações gráficas a respeito desta curiosadade gritante a respeito do idioma, inclusive utilizarei um gráfico que a maioria dos especialistas de dados não gostam de utilizar pois a vizualização dos dados muitas vezes não fica tão clara com a utilização deste gráfico, o famoso gráfico de pizza, e pra fazer aquela média com a comunidade também utilizei o gráfico de barras.
 
 ![Image](https://github.com/user-attachments/assets/e3f9f19d-5f87-4820-adbe-13de9ed32167)
 
