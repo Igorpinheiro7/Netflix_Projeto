@@ -1,4 +1,5 @@
-# Netflix_Projeto
+# 📊 Netflix Data Analysis
+
 
 
 ![Image](https://github.com/user-attachments/assets/92a57649-1756-4549-852d-cb4b73703e9f)
@@ -6,7 +7,7 @@
 
 
 
-# Introdução
+# 🌟 Introdução
 
 Este projeto faz parte da prática do meu aprendizado do curso de Data Science que realizei na Alura, com foco no desenvolvimento das minhas hard skills.
 
