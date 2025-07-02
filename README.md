@@ -53,3 +53,10 @@ Abaixo tem demonstrações gráficas a respeito desta curiosadade gritante a res
 ![Image](https://github.com/user-attachments/assets/e3f9f19d-5f87-4820-adbe-13de9ed32167)
 
 ![Image](https://github.com/user-attachments/assets/7643214d-db21-4f65-80bd-c213daf4ded1)
+
+# Filmes em outros idiomas 
+Percebemos que os idioma que que ficam atrás do inglês é o Françês, Espanhol, Chinês, Alemão e o Havaiano.
+
+![Image](https://github.com/user-attachments/assets/38877503-e4db-4076-9daf-f17bc7d8c182)
+
+![Image](https://github.com/user-attachments/assets/320c8262-88a2-4b68-a586-d83f5d5f2af7)
