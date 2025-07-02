@@ -25,3 +25,19 @@ Nos histogramas abaixo podemos ver a média das notas que é dada na plataforma 
 Como Falei acima, a imagem abaixo mostra com mais clareza a média da avaliação dos filmes na plataforma. 
 
 ![Image](https://github.com/user-attachments/assets/e900852f-2ec2-42ad-8a6d-509ad03d47a9)
+
+# Exploração dos Filmes
+
+Essa exploração foi feita pois eu tinha como objetivo pesquisar qual era a médias das notas recebidas por dois filmes, o primeiro o filme do Toy Story, e o segundo foi o filme do jumanji com a inteção de comparar ambos e ver qual deles está se saindo melhor perante os usuários da plataforma.
+
+
+![Image](https://github.com/user-attachments/assets/da0428c8-dc25-4a9b-a839-5db624ea56a0)
+
+# Comparando duas distribuição de medidas
+Na imagem abaixo podemos ver a média de ambos os filmes e chegamos a conclusão que o filme do toy story tem ficado, e temos a percepção que opúblico gostou desse filme no catálogo da Netflix.
+
+![Image](https://github.com/user-attachments/assets/fbc88de3-6f31-4948-96f0-637155c45801)
+
+O Boxplot abaixo, vai exemplificar graficamente estes resultados citados na imagem acima.
+
+![Image](https://github.com/user-attachments/assets/3459b9f9-820b-48f5-af91-077cc29343a1)
