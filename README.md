@@ -47,3 +47,9 @@ O Boxplot abaixo, vai exemplificar graficamente estes resultados citados na imag
 Achei uma pesquisa interessante de fazer e ver outros ninchos que a plataforma pode explorar, com o intuito de expandir o seu alcance e conquistar mais usuários, nesta pesquisa encontrei que a maioria dos filmes e séries na plataforma está no idioma inglês, claro até porque é o idioma universal, mas identifiquei que o número de filmes e séries em outros idiomas não chega nem a metade dos que são disponibilizados em inglês.
 
 ![Image](https://github.com/user-attachments/assets/f49be5bd-01d5-4260-b0a6-ae936c67195c)
+
+Abaixo tem demonstrações gráficas a respeito desta curiosadade gritante a respeito do idioma, inclusive utilizarei um gráfico que a maioria dos especialistas de dados não gostam de utilizar pois a vizualização dos dados muitas vezes não fica tão clara com a utilização deste gráfico, o famoso gráfico de pizza.
+
+![Image](https://github.com/user-attachments/assets/e3f9f19d-5f87-4820-adbe-13de9ed32167)
+
+![Image](https://github.com/user-attachments/assets/7643214d-db21-4f65-80bd-c213daf4ded1)
