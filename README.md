@@ -29,7 +29,7 @@ Como Falei acima, a imagem abaixo mostra com mais clareza a média da avaliaçã
 
 ![Image](https://github.com/user-attachments/assets/e900852f-2ec2-42ad-8a6d-509ad03d47a9)
 
-# Exploração dos Filmes
+# 🎬 Exploração Comparativa de Filmes
 
 Essa exploração foi feita pois eu tinha como objetivo pesquisar qual era a médias das notas recebidas por dois filmes, o primeiro o filme do Toy Story, e o segundo foi o filme do jumanji com a inteção de comparar ambos e ver qual deles está se saindo melhor perante os usuários da plataforma.
 
