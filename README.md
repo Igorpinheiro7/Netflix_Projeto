@@ -22,6 +22,6 @@ Nos histogramas abaixo podemos ver a média das notas que é dada na plataforma 
 
 ![Image](https://github.com/user-attachments/assets/18db12cf-d05b-4d90-94e0-8acdcc6b83f0)
 
-Como Falei acima a imagem abaixo descreve com mais clareza a média da avaliação dos filmes na plataforma. 
+Como Falei acima, a imagem abaixo mostra com mais clareza a média da avaliação dos filmes na plataforma. 
 
 ![Image](https://github.com/user-attachments/assets/e900852f-2ec2-42ad-8a6d-509ad03d47a9)
