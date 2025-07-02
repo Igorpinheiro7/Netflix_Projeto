@@ -9,7 +9,7 @@
 
 # 🌟 Introdução
 
-Este projeto faz parte da prática do meu aprendizado do curso de Data Science que realizei na Alura, com foco no desenvolvimento das minhas hard skills.
+Este projeto foi desenvolvido como parte do meu aprendizado no curso de Data Science da Alura, com o objetivo de aprimorar minhas hard skills em análise de dados.
 
 # Objetivo:
 
