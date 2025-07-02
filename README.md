@@ -17,7 +17,9 @@ O principal objetivo deste projeto é identificar a média e a avaliação de fi
 
 # 📈 Análise das Avaliações
 
-Nos histogramas abaixo podemos ver a média das notas que é dada na plataforma ficando entre 3,5 e 4,0 sendo que 3,5 é a moda, é o resultado que mais se repete na plataforma que é avaliada pelos usuários.  
+A média das avaliações na plataforma varia principalmente entre 3.5 e 4.0, sendo 3.5 a nota mais frequente (moda), indicando a preferência geral dos usuários.
+
+A distribuição das avaliações de filmes na plataforma é melhor visualizada no gráfico abaixo:  
 
 ![Image](https://github.com/user-attachments/assets/362f5ece-ed74-41a8-b8ff-d1f2434aeaef)
 
