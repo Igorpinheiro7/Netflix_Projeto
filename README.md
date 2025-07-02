@@ -66,4 +66,10 @@ Os idiomas que se destacam após o inglês são Francês, Espanhol, Chinês, Ale
 
 # 📝 Conclusão
 
-Identificamos as médias das notas dos filmes, que foi colocado em pesquisa, o Toy Story e o Jumanji, percebemos que o público, gostaram deste tipo de filme um infantil e o outro de comédia, mas também identifiquei uma melhoria e um nincho que deve ser explorado pela plataforma afim de conquistar novos usuários em diferentes idiomas, percebemos que a predominância do idioma inglês tem escondido novos públicos que deveriam está sendo explorado para o crescimento da plataforma e de usuários.   
+Através desta análise, foi possível:
+
+Identificar as médias das avaliações de filmes na plataforma, com a moda em 3.5.
+
+Comparar o desempenho de filmes específicos, como Toy Story e Jumanji, e observar a preferência do público por Toy Story.
+
+Destacar a predominância do idioma inglês no catálogo e a oportunidade de explorar novos nichos em outros idiomas para atrair um público mais diverso e expandir a base de usuários da Netflix.   
