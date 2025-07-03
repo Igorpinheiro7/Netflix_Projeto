@@ -36,7 +36,7 @@ Realizei uma análise comparativa entre as avaliações de dois filmes populares
 
 ![Image](https://github.com/user-attachments/assets/da0428c8-dc25-4a9b-a839-5db624ea56a0)
 
-# Comparando duas distribuição de medidas
+# 📊 Comparando duas distribuição de medidas
 A comparação das médias de ambos os filmes revela que Toy Story obteve uma recepção mais positiva por parte do público da Netflix, como pode ser visto abaixo:
 
 ![Image](https://github.com/user-attachments/assets/fbc88de3-6f31-4948-96f0-637155c45801)
