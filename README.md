@@ -57,7 +57,7 @@ Para ilustrar essa disparidade, utilizei tanto o gráfico de pizza (apesar de su
 
 ![Image](https://github.com/user-attachments/assets/7643214d-db21-4f65-80bd-c213daf4ded1)
 
-# Detalhes dos Filmes em Outros Idiomas 
+# 🎞️ Detalhes dos Filmes em Outros Idiomas 
 Os idiomas que se destacam após o inglês são Francês, Espanhol, Chinês, Alemão e Havaiano. Isso aponta para oportunidades de crescimento em mercados específicos.
 
 ![Image](https://github.com/user-attachments/assets/38877503-e4db-4076-9daf-f17bc7d8c182)
